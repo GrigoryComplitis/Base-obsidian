@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "71e303211e58218d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e6f66b5d4404439",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4177ec3f1bea44db",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "204cec28c6921f5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c962fee6c16ca61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddd69490c3e6de3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d29d69d22cc8a5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ROI",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2cb8f908e844b9db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 375.5
+  },
+  "right": {
+    "id": "db23efd84f8f6458",
+    "type": "split",
+    "children": [
+      {
+        "id": "848de70c4801a52f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8665509f5e6cdad1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0b2b47816c32327",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8debcd927f074ca8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8063861817a1a7b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "15df501d69837e8c",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c94ec120fe02b977",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "homepage:Open homepage": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
+    }
+  },
+  "active": "4177ec3f1bea44db",
+  "lastOpenFiles": [
+    "Complitech/Домашняя страница.md",
+    "Complitech/Введение в должность инженера.md",
+    "Без названия.md",
+    "Complitech/docker полезные команды.md",
+    "Complitech/Установка ОС/Установка системы.md",
+    "Complitech/Установка ОС/Ubuntu 22.04.md",
+    "Complitech/Установка ОС/Astra linux 1.7 SE.md",
+    "Complitech/Установка ОС",
+    "Complitech/Предварительные работы с ОС/Подготовка системы к установке ПО.md",
+    "Complitech/Предварительные работы с ОС/Ubuntu 22.04 {server}.md",
+    "Complitech/Предварительные работы с ОС/Ubuntu 22.04 {ARM}.md",
+    "Complitech/Предварительные работы с ОС/Astra 1.7 SE {server}.md",
+    "Complitech/Предварительные работы с ОС/Astra 1.7 SE {ARM}.md",
+    "Complitech/Предварительные работы с ОС",
+    "Complitech/Внутренняя документация и инструкции/Используемые порты.md",
+    "Complitech/Внутренняя документация и инструкции/Инструкция по пусконаладке ПС Россетей.md",
+    "Complitech/Внутренняя документация и инструкции/Инструкция по выездам на объекты заказчиков.md",
+    "Complitech/Внутренняя документация и инструкции/Инструкции.md",
+    "Complitech/Внутренняя документация и инструкции/Документация.md",
+    "Complitech/Внутренняя документация и инструкции/Возмещение расходов.md",
+    "Complitech/Внутренняя документация и инструкции",
+    "Complitech/Troubleshooting/Проблемы с архивом vms.md",
+    "Complitech/Troubleshooting/Проблема с доступом в веб морду - админку VMS.md",
+    "Complitech/Troubleshooting/Troubleshooting.md",
+    "Complitech/Troubleshooting",
+    "Complitech/Sentinel VMS/установка VMS через .deb.md",
+    "Complitech/Sentinel VMS/Установка VMS вручную.md",
+    "Complitech/Sentinel VMS/Сервер VMS.md",
+    "Complitech/Sentinel VMS/Клиент VMS.md",
+    "Complitech/Sentinel VMS",
+    "Complitech/Sentinel R/Сервер Sentinel R.md",
+    "Complitech/Sentinel R",
+    "Complitech/ROI/ROI_PACKAGE",
+    "Complitech/ROI",
+    "Complitech/LPR",
+    "Complitech/FNV",
+    "Без названия.canvas"
+  ]
+}
