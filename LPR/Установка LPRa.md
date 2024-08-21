@@ -1,3 +1,8 @@
+> [!error] 
+>
+> ПОКА НЕАКТУАЛЬНО 
+
+
 Прошивка 5.1.2  
 [http://download.faceneurovision.com/fnv5/arm/JetPack_5.1.2_Linux_JETSON.tgz](http://download.faceneurovision.com/fnv5/arm/JetPack_5.1.2_Linux_JETSON.tgz)  
 Установка докер и настройка окружения  

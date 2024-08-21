@@ -1,6 +1,7 @@
 1. Скачать каталог со скриптами: {вставить актуальную ссылку}
 
-_**wget -O -**_ [](http://download.faceneurovision.com/lpr/x86/install.tar "http://download.faceneurovision.com/lpr/x86/install.tar")_**[http://download.faceneurovision.com/lpr/x86/install.tar](http://download.faceneurovision.com/lpr/x86/install.tar)**_ _**| cat | tar x**_
+> [!todo] 
+> <span style="color: #f4a448">*wget -O -http://download.faceneurovision.com/lpr/x86/install.tar | cat | tar x*</span>
 
 2. Установить драйвер нвидиа, для этого перейти в каталог со скриптами: _**cd install,**_ запустить _**./nvidia_driver.sh**_ (по окончанию сервер будет перезагружен).
 
