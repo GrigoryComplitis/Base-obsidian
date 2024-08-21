@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5e6f66b5d4404439",
+        "id": "bdc1a4fbf8033911",
         "type": "tabs",
         "children": [
           {
-            "id": "4177ec3f1bea44db",
+            "id": "fbd20bdf011519c7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Complitech/Предварительные работы с ОС/Ubuntu 22.04 {server}.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6479707a6fca3d31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Complitech/LPR/LPR.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Complitech/LPR/LPR.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Complitech/LPR/LPR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Complitech/LPR/LPR.md"
+              }
             }
           },
           {
@@ -138,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -153,43 +174,45 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "homepage:Open homepage": false,
-      "yet-another-obsidian-synchronizer:YAOS": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "4177ec3f1bea44db",
+  "active": "6479707a6fca3d31",
   "lastOpenFiles": [
-    "Complitech/Домашняя страница.md",
-    "Complitech/Введение в должность инженера.md",
-    "Без названия.md",
-    "Complitech/docker полезные команды.md",
-    "Complitech/Установка ОС/Установка системы.md",
-    "Complitech/Установка ОС/Ubuntu 22.04.md",
-    "Complitech/Установка ОС/Astra linux 1.7 SE.md",
-    "Complitech/Установка ОС",
-    "Complitech/Предварительные работы с ОС/Подготовка системы к установке ПО.md",
-    "Complitech/Предварительные работы с ОС/Ubuntu 22.04 {server}.md",
-    "Complitech/Предварительные работы с ОС/Ubuntu 22.04 {ARM}.md",
     "Complitech/Предварительные работы с ОС/Astra 1.7 SE {server}.md",
-    "Complitech/Предварительные работы с ОС/Astra 1.7 SE {ARM}.md",
-    "Complitech/Предварительные работы с ОС",
-    "Complitech/Внутренняя документация и инструкции/Используемые порты.md",
-    "Complitech/Внутренняя документация и инструкции/Инструкция по пусконаладке ПС Россетей.md",
-    "Complitech/Внутренняя документация и инструкции/Инструкция по выездам на объекты заказчиков.md",
-    "Complitech/Внутренняя документация и инструкции/Инструкции.md",
-    "Complitech/Внутренняя документация и инструкции/Документация.md",
-    "Complitech/Внутренняя документация и инструкции/Возмещение расходов.md",
-    "Complitech/Внутренняя документация и инструкции",
+    "Complitech/Предварительные работы с ОС/Ubuntu 22.04 {server}.md",
+    "Complitech/Предварительные работы с ОС/Подготовка системы к установке ПО.md",
+    "Complitech/Установка ОС/Ubuntu 22.04.md",
+    "Complitech/Sentinel VMS/Клиент VMS.md",
+    "Complitech/Sentinel R/Клиенты Sentinel R.md",
+    "Complitech/Sentinel R/Сервер Sentinel R.md",
     "Complitech/Troubleshooting/Проблемы с архивом vms.md",
     "Complitech/Troubleshooting/Проблема с доступом в веб морду - админку VMS.md",
-    "Complitech/Troubleshooting/Troubleshooting.md",
-    "Complitech/Troubleshooting",
     "Complitech/Sentinel VMS/установка VMS через .deb.md",
     "Complitech/Sentinel VMS/Установка VMS вручную.md",
     "Complitech/Sentinel VMS/Сервер VMS.md",
-    "Complitech/Sentinel VMS/Клиент VMS.md",
+    "Complitech/Sentinel R/Sentinel R.md",
+    "Complitech/ROI/Установка ROI через .deb.md",
+    "Complitech/LPR/Установка LPRa.md",
+    "Complitech/LPR/Установка LPR через скрипты.md",
+    "Complitech/LPR/Установка LPR через .deb.md",
+    "Complitech/LPR/Установка LPR вручную.md",
+    "Complitech/FNV/Установка FNVa.md",
+    "Complitech/FNV/Установка FNV через скрипты.md",
+    "Complitech/FNV/Установка FNV через .deb.md",
+    "Complitech/FNV/Установка FNV вручную.md",
+    "Complitech/ROI/Установка ROI вручную.md",
+    "Complitech/ROI/Установка ROI через скрипты.md",
+    "Complitech/ROI/ROI_PACKAGE/Установка ROI PACKAGE через скрипты.md",
+    "Complitech/FNV/FNV.md",
+    "Pasted image 20240821110242.png",
+    "Pasted image 20240821110048.png",
+    "Pasted image 20240821110039.png",
+    "Complitech/Установка ОС",
+    "Complitech/Предварительные работы с ОС",
+    "Complitech/Внутренняя документация и инструкции",
+    "Complitech/Troubleshooting",
     "Complitech/Sentinel VMS",
-    "Complitech/Sentinel R/Сервер Sentinel R.md",
     "Complitech/Sentinel R",
     "Complitech/ROI/ROI_PACKAGE",
     "Complitech/ROI",
