@@ -112,8 +112,9 @@ sudo nmcli connection reload && sudo nmcli connection down "static" && sudo nmcl
 Изменить hostname по шаблону FNVA_Порядковый_номер
 
 При необходимости подключения платы ETW-01 нужно добавить в compose модуль ETW:
-
-  module_etw:
+> [!bug] 
+> code:
+    module_etw:
 	image: facenv/module_etw:arm
     restart: always
     network_mode: "host"
