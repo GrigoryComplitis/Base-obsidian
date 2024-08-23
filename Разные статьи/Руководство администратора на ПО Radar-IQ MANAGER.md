@@ -1,0 +1,3 @@
+> [!info] 
+> Ссылка на документ 
+https://app-files.s3.ru-1.storage.selcloud.ru/flowlu_ru/80940/e03c2fcd-0c0e-11ee-a147-fa163e2ff576.pdf?response-cache-control=public%2C+max-age%3D31536000&response-content-disposition=inline%3B++filename%3D%22RUS_CORE-IQ+Quick+setup+guide.pdf%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240823T101052Z&X-Amz-Expires=21600&X-Amz-Credential=a14caaa2ca1049f9a05e17135d297850%2F20240823%2Fru-1%2Fs3%2Faws4_request&x-amz-content-sha256=UNSIGNED-PAYLOAD&X-Amz-SignedHeaders=host&X-Amz-Signature=762f1223fa1829c9148c0bcd4520e3d21f70648323fd06f4bf63e5c095477195

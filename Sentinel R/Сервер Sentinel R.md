@@ -8,3 +8,9 @@
 > [!todo] 
 > <span style="color: #f4a448">*docker-compose up -d*</span>
 
+
+> [!info] 
+>  Дополнительные статьи к серверу
+>  
+>[[Обновление Sentiel R - сервер]]
+>[[Интеграция BOLID с Sentinel]]

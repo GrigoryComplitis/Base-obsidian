@@ -4,7 +4,7 @@
 Разархивировать архив
 зайти в разархивированную папку и найти каталог `images/` после чего перейти в него и прописать:
 > [!todo] 
-> <span style="color: #f4a448">*for img in *.img; do docker load -i "$img"; done*</span> 
+> <span style="color: #f4a448">*for img in \*.img; do docker load -i "$img"; done*</span> 
 
 Отредактировать конфиги в каталоге `config/ client.json (порт 5020), archive_server.json, live_server.json, server.json (12 строка на порт 5020)` В основном поменять только локальный адрес на адрес машины в сети, также  в конфиге server.json поменять тип фс архива с ext4 на xfs
 
@@ -17,3 +17,6 @@
 Остановка
 > [!todo] 
 > <span style="color: #f4a448">*docker-compose down*</span>
+
+> [!info] 
+> Если разворачивание происходит на том же сервере, на котором развернут (или будет развернут) Sentinel R, то необходимо заменить порт бд с 5432 на 5433 во всех конфигах и в docker-compose.yml (5433:5432) 
